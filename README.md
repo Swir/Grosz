@@ -2,48 +2,70 @@
 
 # 🪙 Grosz
 
-**Project assets & visual identity / Zasoby projektu i identyfikacja wizualna**
+### Visual Identity & Branding Assets Repository
 
 <img src="logo3.jpg" alt="Grosz logo" width="260">
+
+**Logo Variants • Project Artwork • Versioned Branding Assets**
+
+![Type](https://img.shields.io/badge/Repository-Visual%20Assets-ff4fa3)
+![Status](https://img.shields.io/badge/Status-Branding%20Archive-111111)
+![Author](https://img.shields.io/badge/Maintainer-Swir-8A2BE2)
 
 </div>
 
 ---
 
-## 🇵🇱 Polski
+## 🎨 About
 
-Repozytorium **Grosz** zawiera materiały graficzne związane z projektem Grosz. Obecna wersja repozytorium pełni przede wszystkim rolę miejsca przechowywania i wersjonowania identyfikacji wizualnej projektu.
+**Grosz** is a versioned repository for the visual identity and artwork associated with the Grosz project. In its current form, it serves as a clean home for logo variants and project graphics rather than an application or source-code repository.
 
-### 📦 Zawartość
-
-- `logo.jpg` — główny materiał graficzny,
-- `logo2.jpg` — dodatkowy wariant grafiki,
-- `logo3.jpg` — alternatywny wariant logo/grafiki.
-
-### ℹ️ Status projektu
-
-W repozytorium nie ma obecnie kodu źródłowego ani gotowej aplikacji. README celowo opisuje wyłącznie zawartość, która faktycznie znajduje się w projekcie.
-
-### 👤 Autor / opiekun
-
-Repozytorium prowadzone przez **Swir**.
+This README intentionally describes only the material that is actually present in the repository.
 
 ---
 
-## 🇬🇧 English
+## 📦 Assets
 
-The **Grosz** repository contains visual assets related to the Grosz project. In its current form, the repository primarily serves as a versioned home for the project's visual identity and artwork.
+| File | Purpose |
+|---|---|
+| `logo.jpg` | Primary visual asset |
+| `logo2.jpg` | Additional artwork / logo variant |
+| `logo3.jpg` | Alternative logo / branding variant |
 
-### 📦 Contents
+---
 
-- `logo.jpg` — primary visual asset,
-- `logo2.jpg` — additional artwork variant,
-- `logo3.jpg` — alternative logo/artwork variant.
+## 🧩 Repository Structure
 
-### ℹ️ Project status
+```text
+Grosz/
+├── logo.jpg
+├── logo2.jpg
+├── logo3.jpg
+└── README.md
+```
 
-The repository currently contains no source code or packaged application. This README intentionally documents only the material that is actually present in the project.
+---
 
-### 👤 Author / maintainer
+## ℹ️ Project Status
 
-Repository maintained by **Swir**.
+The repository currently contains **visual assets only**. There is no application source code, wallet software or executable package stored here at this time.
+
+---
+
+## 🔍 Discoverability
+
+`grosz project` • `grosz logo` • `grosz branding` • `crypto project artwork` • `token logo assets` • `project visual identity` • `github branding assets`
+
+---
+
+## 👨‍💻 Maintainer
+
+Maintained by **Swir** — [@Swir](https://github.com/Swir)
+
+<div align="center">
+
+### 🪙 A versioned home for the Grosz visual identity
+
+⭐ **Star the repository if you follow the project!**
+
+</div>
